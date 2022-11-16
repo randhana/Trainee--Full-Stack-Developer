@@ -1,4 +1,5 @@
 
+
 "Complete the code to take the input as an integer and output a square of "*" characters. "
 
 def starptn():
