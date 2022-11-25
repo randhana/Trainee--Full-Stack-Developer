@@ -1,5 +1,5 @@
 #stack implemaentation
-#real world application: Undo function
+#Real world application: Undo function
 my_stack = []
 
 #push data
