@@ -1,4 +1,4 @@
-#stack
+#stack implimaentation
 #real world application: Undo function
 my_stack = []
 
